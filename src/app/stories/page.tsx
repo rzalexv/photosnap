@@ -20,15 +20,13 @@ const StoriesPage = () => {
         </picture>
         <div className="py-10 lg:py-32 text-white bg-black md:bg-transparent md:absolute md:left-0 md:top-0 md:w-[65%] lg:w-[50%] xl:w-[45%] 2xl:w-[35%] md:h-full md:grid md:items-center md:py-0">
           <div className="container grid gap-4 px-8 xl:px-16 md:gap-6">
-            <span className="font-bold tracking-widest uppercase">Last Month's Featured Story</span>
+            <span className="font-bold tracking-widest uppercase">Last Month&apos;s Featured Story</span>
             <h1 className="text-[38px] leading-tight font-bold uppercase 2xl:text-6xl md:text-[54px] tracking-widest">Hazy Full Moon of Appalachia</h1>
             <div className="flex gap-2 text-sm">
               <span className="xl:text-gray-400">March 2nd 2020</span>
               <span className="">by John Appleseed</span>
             </div>
-            <p className="leading-relaxed tracking-wide 2xl:text-lg xl:text-gray-400">
-              The dissected plateau area, while not actually made up of geological mountains, is popularly called "mountains" especially in eastern Kentucky and West Virginia, and while the ridges are not high, the terrain is extremely rugged.
-            </p>
+            <p className="leading-relaxed tracking-wide 2xl:text-lg xl:text-gray-400">The dissected plateau area, while not actually made up of geological mountains, is popularly called &ldquo;mountains&rdquo; especially in eastern Kentucky and West Virginia, and while the ridges are not high, the terrain is extremely rugged.</p>
             <div className="">
               <Link href="/" className="font-bold inline-flex gap-4 items-center justify-between tracking-[2px] uppercase group">
                 <span className="underline-gradient">Read the Story</span>
