@@ -1,4 +1,4 @@
-# [Frontend Mentor - Photosnap Website](https://photosnap.vercel.app)
+# [Frontend Mentor - Photosnap Website](https://photosnap-next.vercel.app)
 
 ## Table of contents
 
@@ -14,4 +14,4 @@
 
 ### Links
 
-- Live Site URL: 👉 [Live Site](https://photosnap.vercel.app)
+- Live Site URL: 👉 [Live Site](https://photosnap-next.vercel.app)
